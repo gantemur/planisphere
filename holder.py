@@ -197,6 +197,8 @@ class Holder(BaseComponent):
                                     "AM" if (hr > 0) else "PM")
             if language == "fr":
                 txt = "{:02d}h00".format(int(hr if (hr > 0) else hr + 24))
+            if language == "mn":
+                txt = "{:d}ц".format(int(hr if (hr > 0) else hr + 24))
             if hr == 0:
                 txt = ""
             t = unit_rev / 24 * hr * (-1 if not is_southern else 1)

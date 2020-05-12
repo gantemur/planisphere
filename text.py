@@ -57,14 +57,14 @@ text = {
     "mn":
         {
             "title": "ПЛАНИСФЕР",
-            "instructions_1": "Drehen Sie das Sternenrad bis Sie am äußeren Rand das heutige Datum finden und bringen Sie es in eine Linie mit der jetzigen Uhrzeit. Das Sichtfenster zeigt Ihnen nun alle Konstellationen, die Sie im Himmel sehen können.",
-            "instructions_2": "Gehen Sie nach draußen und schauen Sie nach Norden. Halten Sie die Planisphäre hoch in den Himmel. Die Sterne am unteren Ende des Sichtfensters sollten mit den Sternen übereinstimmen, welche Sie im Himmel vor sich sehen können.",
-            "instructions_3": """Drehen Sie sich nach Osten oder Westen. Dann drehen Sie die gesamte Planisphäre, so dass „Osten" oder „Westen" nach unten zeigen. Abermals stimmen die Sterne am unteren Rand des Sichtfensters mit denen am Himmel vor Ihnen überein.""",
+            "instructions_1": "Оддын дугуйг аажмаар эргүүлэн өнөөдрийн огноог одоогийн цагтай харгалдаа байрлуулбал яг одоо тэнгэрт ямар одод байгаа нь оддын цонхоор харагдана.",
+            "instructions_2": "Планисферийн цонхны доод захаар харагдаж байгаа одод умард зүгийн тэнгэрт байгаа ододтой таарах ёстой.",
+            "instructions_3": """Одоо планисферээ бага зэрэг эргүүлэн “Өрнө” эсвэл “Дорно” гэсэн бичгийг доод талд нь гарга. Тэгвэл өмнөхтэй адилаар планисферийн цонхны доод захаар харагдаж байгаа одод баруун эсвэл зүүн зүгийн тэнгэрт байгаа ододтой таарах ёстой.""",
             "instructions_4": (
-                r"Eine Planisphäre ist ein einfaches Hilfsmittel das eine Karte der Sterne zeigt, welche nachts um eine ausgewählte Uhrzeit zu sehen sind. Durch Drehen des Sternenrads wird angezeigt wie die Sterne über den Himmel wandern und wie verschiedene Konstellationen über das Jahr hinweg sichtbar sind.",
+                r"Планисфер нь өгөгдсөн агшинд шөнийн тэнгэрт ямар одод харагдахыг дүрсэлж үзүүлдэг хялбар багаж юм. Оддын дугуйг эргүүлэн шөнийн турш тэнгэр дээгүүр одод хэрхэн хөдөлдгийг, улирлаас хамааран жилийн турш шөнө харагдах одод хэрхэн өөрчлөгддөгийг алган дээрээ тавьсан мэт хараарай.",
                 "",
-                r"Die Konstellationen des Nachthimmels drehen sich um den Himmelspol alle 23 Stunden und 56 Minuten. Die Idee den Nachthimmel als flache Karte darzustellen, welche gedreht wird um die Himmelsrotation zu simulieren, geht auf den griechischen Astronomen Hipparchus zurück (ca. 150 AD). Da die Rotation vier Minuten weniger benötigt als ein Tag lang ist, hat dies zur Folge, dass die Sterne jeden Tag vier Minuten früher aufgehen, beziehungsweise eine halbe Stunde jede Woche. Während des Jahres werden dadurch neue Konstellationen am Morgenhimmel sichtbar und verschwinden in der abendlichen Dämmerung."),
-            "more_info": "\u00A9 D.Ford, Ц.Гантөмөр 2020.",
+                r"Одот тэнгэр туйлуудаа 23 цаг 56 минутад нэг бүтэн тойрдог. Шөнийн тэнгэрийг хавтгай зураг болгон дүрслээд, хоногийн эргэлтийнх нь оронд зургаа эргүүлэх санаа нь МЭӨ 150 оны үеийн эртний Грекийн агуу одон оронч Гиппархын нээлт юм. Оддын эргэлтийн үе 24 цаг хүрэхгүй, 4 минут дутуу байгаагаас болоод одод хоног бүр 4 минутаар, сар бүр 2 цагаар  эрт манддаг. Тэгэхээр жишээ нь яг шөнө дунд орой дээр гарах одод жилийн турш аажмаар солигдох ба жил бүр яг энэ дараалал нь давтагдана."),
+            "more_info": "\u00A9 Доминик Форд 2020.",
             "glue_here": "НААЛТ",
             "cut_out_instructions": (
                 "Саарлаар будагдсан хэсгийг хайчилж ав.",
